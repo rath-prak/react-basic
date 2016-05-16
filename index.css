@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+html{
+  font-family: sans-serif;
+  background: #e6f3ff;
+}
+main {
+  text-align: center;
+}
+
+.counterTwo{
+  color: #fff;
+  width: 170px;
+  margin: 0 auto;
+  height: 170px;
+  line-height: 170px;
+  background: #6600ff;
+  margin-top: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 15px solid #33ccff;
+  font-size: 55px;
+}
+#second{
+  background: red;
+}
